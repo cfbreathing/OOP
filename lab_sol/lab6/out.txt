@@ -1,0 +1,11 @@
+Create an empty vector.	PASS 1 1
+Creates a vector for holding 'size' elements.	PASS 1 2
+Accesses the specified element without bounds checking	PASS 1 3
+Adds an element to the end.	PASS 1 4
+The copy ctor.	PASS 1 5
+Return the size of the container	PASS 1 6
+Accesses the specified element with bounds checking	PASS 1 7
+Throws an exception of when index <0 or >=m_nSize	PASS 1 8
+Clears the contents	PASS 1 9
+Expand the storage of the container to a new capacity	PASS 1 10
+10 / 10

@@ -1,0 +1,19 @@
+Ctor default	PASS 1 1
+Create a Fraction	PASS 1 2
+Copy a Fraction	PASS 1 3
+Conversion from a finite decimal	PASS 1 4
+Type cast to double	PASS 1 5
+Takes one integer as parameter	PASS 1 6
+Inserter for streams	PASS 1 7
+Extractor for streams	out:2/3 PASS 1 8
+Arithmetical operators+	PASS 1 9
+Arithmetical operators-	PASS 1 10
+Arithmetical operators*	PASS 1 11
+Arithmetical operators/	PASS 1 12
+Relational operators<	PASS 1 13
+Relational operators<=	PASS 1 14
+Relational operators==	PASS 1 15
+Relational operators!=	PASS 1 16
+Relational operators>=	PASS 1 17
+Relational operators>	PASS 1 18
+18 / 18
